@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @norogoth
 - 👀 I am a software developer. Currently dabbling into .NET.
-- 🐦 I like birds, Linux, React, nodeJS, creating web-pages from mark-down, gnomes, and Ancient Egypt. Did you know that it took Sneferu three tries to build his pyramid? But he started the trend 🛕
+- 🐦 I like birds, Linux, React, nodeJS, creating web-pages from mark-down, gnomes, Neovim and Ancient Egypt. Did you know that it took Sneferu three tries to build his pyramid? But he started the trend 🛕
 - 🐒 Return to monke
 
 
