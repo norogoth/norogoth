@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @norogoth
-- 👀 I am a software developer. Currently dabbling into .NET
+- 👀 I am a software developer. I like Linux, nodeJS, and React. Currently dabbling into .NET.
 - 🐦 I like birds, creating web-pages from mark-down and gnomes
 - 🐒 Return to monke
 
