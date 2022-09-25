@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @norogoth
-- 👀 I am a software developer. I own Microsoft and Google. I am the president of China and Brazil. I am a senior software architect, astronaut and military general.
+- 👀 I am a software developer. Currently dabbling into .NET
 - 🐦 I like birds, creating web-pages from mark-down and gnomes
 - 🐒 Return to monke
 
