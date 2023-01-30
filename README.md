@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @norogoth
-- 👀 I am a software developer. Currently dabbling into .NET.
+- 👋 Hi, I’m @norogoth a professional and hobbyist software developer
+- 👀 I am a software developer with experience accross many different languages. I especially like NodeJS and ASP.NET.
 - 🐦 I like birds, Linux, React, nodeJS, creating web-pages from mark-down, gnomes, ~~Neovim~~ VSC and Ancient Egypt. Did you know that it took Sneferu three tries to build his pyramid? But he started the trend 🛕
 
 <!---
